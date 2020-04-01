@@ -1,1 +1,3 @@
-Tracking of dotfiles for T420 configuration.
+#.fonts
+
+Aggregate fonts from a number of machines. Mainly used for Emacs configs.
